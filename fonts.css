@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Orator Std";
+   src: url("fonts/OratorStd-Slanted.eot") format("embedded-opentype"), url("fonts/OratorStd-Slanted.otf") format("opentype"), url("fonts/OratorStd-Slanted.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Orator Std";
+   src: url("fonts/OratorStd.eot") format("embedded-opentype"), url("fonts/OratorStd.otf") format("opentype"), url("fonts/OratorStd.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
